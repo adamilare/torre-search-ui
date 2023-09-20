@@ -1,7 +1,7 @@
 # Torre-Search-UI
 
 - [Link to live server](https://search-test-server.onrender.com)
-- [Link to live frontend](https://torre-search-ui.vercel.com)
+- [Link to live frontend](https://torre-search-ui.vercel.app)
 
 - [Backend Repo](https://github.com/adamilare/Torre-Search-Server)
 
